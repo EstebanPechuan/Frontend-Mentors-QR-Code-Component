@@ -22,7 +22,7 @@ body {
 }
 
 .container {
-    width: 310px;
+    width: 350px;
     background: var(--white);
     padding: 15px;
     border-radius: 20px;
